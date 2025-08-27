@@ -74,7 +74,7 @@ ML/AI                ████████████░░░░░░░�
 
 ## 🏆 Achievements
 - 🌟 **500+** DSA Problems Solved
-- 🏆 **4⭐** at CodeChef
+- 🏆 **3⭐** at CodeChef
 - 🎓 **President** of Code.Learn.Discuss Club
 - 🚀 Successfully organized multiple hackathons
 
